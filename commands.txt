@@ -1,0 +1,14 @@
+COMANDI:
+/add_link -> aggiungere una nuova affiliazione
+/autorizza_utente -> autorizzare un utente a visualizzare i pronostici
+/togli_autorizzazione -> togliere l'autorizzazione per la visualizzazione dei pronostici
+
+FUNZIONALITA' ADMIN
+- Creazione nuove categorie per i pronostici
+- Creazione nuovi pronostici all'interno di una determinata categoria
+- Rimozione categorie
+- Rimozione pronostici
+
+FUNZIONALITA' UTENTE
+- Visualizzazione promozioni/affiliazioni
+- (Se autorizzato) Visualizzazione categorie e pronostici per categoria
